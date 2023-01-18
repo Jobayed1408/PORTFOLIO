@@ -1,0 +1,171 @@
+body {
+  margin: 0;
+  font-family: "Montserrat", sans-serif;
+}
+.heading-section {
+  height: 650px;
+  background-image: url(personal-website/header-bg.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+.half-div1 {
+  width: 40%;
+  float: left;
+  margin-left: 10%;
+}
+.half-div2 {
+  width: 40%;
+  float: left;
+}
+.sub-div1 {
+  margin-top: 35%;
+}
+.sub-div2 {
+  margin-top: 5%;
+}
+.highlight-name {
+  color: deeppink;
+  font-size: 35px;
+}
+.first-image {
+  width: 40%;
+}
+.link-button {
+  color: white;
+  text-decoration: none;
+  background-image: linear-gradient(
+    to right,
+    rgb(240, 78, 165),
+    rgb(235, 45, 146)
+  );
+  padding: 10px 25px;
+  border-radius: 5px;
+}
+.link {
+  margin-top: 50px;
+}
+.description {
+  color: gray;
+}
+/* biography section*/
+
+.bio-div1 {
+  width: 40%;
+  float: left;
+  margin-left: 7%;
+}
+.bio-div2 {
+  width: 40%;
+  float: left;
+  margin-left: 7%;
+}
+.second-image {
+  width: 100%;
+  margin-top: 10%;
+}
+.bio-section {
+  height: 750px;
+  background-image: url(personal-website/biography-bg.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+.sub-div3 {
+  margin-top: 40%;
+}
+
+.bio-header {
+  font-size: 35px;
+}
+
+/*------WORK SECTION___*/
+
+.work-section {
+  height: 700px;
+  background-image: url(personal-website/latest-work-bg.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+.word-header {
+  font-size: 35px;
+  text-align: center;
+  margin-top: 8%;
+}
+.work-div {
+  margin-left: 10%;
+  margin-right: 10%;
+  margin-top: 5%;
+}
+.work-img {
+  width: 33%;
+}
+
+/*------Course section-------*/
+
+.course-head {
+  font-size: 35px;
+  display: inline-block;
+  text-align: center;
+}
+
+/*------Form section-----*/
+.form {
+  font-weight: bold;
+  font-size: 40px;
+}
+.form-size {
+  font-size: 20px;
+}
+.form-size:hover {
+  font-size: 25px;
+  color: rgb(0, 164, 71);
+}
+.submit {
+  background-color: rgb(222, 15, 156);
+  color: white;
+}
+
+/*-------CLIENT SECTION-------*/
+
+.client-section {
+  background-image: url(personal-website/footer-bg.png);
+  height: 700px;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+.client-header {
+  font-size: 35px;
+  margin-bottom: 100px;
+  margin-top: 100px;
+}
+.client-para {
+  margin-bottom: 60px;
+}
+.middle {
+  text-align: center;
+}
+.whites {
+  color: aliceblue;
+}
+.footer-div {
+  background-image: linear-gradient(
+    to right,
+    rgb(240, 48, 150),
+    rgb(236, 11, 131)
+  );
+  width: 50%;
+  border-radius: 5px;
+  margin-left: 25%;
+  height: 150px;
+}
+
+/*---------FOOTER SECTION-------*/
+
+.mar {
+  padding-top: 40px;
+}
+.para {
+  margin-bottom: 40px;
+}
+.footer {
+  margin: 50px;
+}
